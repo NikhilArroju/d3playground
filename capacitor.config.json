@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "d3playground",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

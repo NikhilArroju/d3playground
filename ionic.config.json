@@ -1,0 +1,7 @@
+{
+  "name": "d3playground",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
